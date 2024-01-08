@@ -1,4 +1,4 @@
-# Auto_Typing
+# Auto_Typer_Bot
 This Python script utilizes the `pyautogui` library to simulate typing and pressing the "enter" key. It repeats the process a specified number of times.
 
 # Configuration
