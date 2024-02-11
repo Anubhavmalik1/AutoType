@@ -1,6 +1,7 @@
 import pyautogui
 import time
 
+
 # Set the initial delay before the script starts (in seconds)
 initial_delay = 1
 time.sleep(initial_delay)
